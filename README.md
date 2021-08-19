@@ -1,5 +1,5 @@
 ## Simple Gatsby Website
 
-### Live -
+### Live - https://gatsby-webworld.netlify.app/
 
-![Preview screenshot](screenshot.png)
+![Preview screenshot](screenshot.jpg)
